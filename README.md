@@ -1,3 +1,4 @@
-##
-# Creado por Jorge Polo
-Empezando en GitHub
+===========
+@jor_polo
+===========
+Comenzando con GitHub
